@@ -1,0 +1,2 @@
+hostname=commonconfig.oss-accelerate.aliyuncs.com,o-oo.net.cn
+^https://commonconfig.oss-accelerate.aliyuncs.com/xsreader/xsreader url echo-response text echo-response https://ghproxy.com/https://raw.githubusercontent.com/FengYuu/Rewrite/main/xsunlimit

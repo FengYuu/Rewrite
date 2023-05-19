@@ -1,0 +1,2 @@
+hostname = 112.65.194.124, 157.255.218.31, *.y.qq.com
+^https?:\/\/[\w\d.]+\/[^\s]*upgrade\/fcgi-bin\/[^\s]* url reject
